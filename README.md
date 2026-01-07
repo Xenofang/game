@@ -74,5 +74,5 @@ rock-paper-scissors/
 You can host this project using **GitHub Pages**.
 
 ## 📌 Author
-**Shubham**
+**Jhalak Mandal*
 
