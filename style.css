@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    background-color: #218380;
+}
+.heading{
+    display: flex;
+    height: 10vmin;
+    color: antiquewhite;
+    background-color: #2C5784;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55vmin;
+    gap: 20px;
+}
+
+.playbtn{
+    display: flex;              
+    justify-content: center;
+    align-items: center;
+    height: 25vmin;
+    width: 25vmin;            
+    border-radius: 50%;
+    border: none;
+    overflow: hidden;      
+    border: none;
+    cursor: pointer;
+}
+.playbtn img{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+.playbtn:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(216, 17, 89 , 0.8);
+}
+.scoreBoard{
+    height: 12vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    font-weight: bolder;
+    gap: 1rem;
+    margin-top: 10px;
+}
+#uScore,#comScore {
+    font-size: xx-large;
+}
+.reset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vmin;
+}
+#rebtn{
+    display: flex;              
+    justify-content: center;
+    align-items: center;
+    height: 10vmin;
+    width: 25vmin;   
+    border: none;     
+    border-radius: 2rem;
+    background-color: #4C3B4D;
+    color: whitesmoke;
+
+}
+.msg{
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    color: whitesmoke;
+    font-size: larger;
+    margin-bottom: 10px;
+}
+
+#rebtn:hover{
+    transform: scale(1);
+    box-shadow: 0 0 50px rgba(216, 17, 89 , 0.8);
+}
