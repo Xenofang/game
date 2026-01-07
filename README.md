@@ -7,7 +7,7 @@
 
 ## 🚀 Live Preview
 👉 **Play the game:**  
-https://<your-username>.github.io/<repo-name>/
+(https://xenofang.github.io/game/)
 
 ---
 
@@ -67,7 +67,7 @@ rock-paper-scissors/
 
 ## ▶️ How to Run
 1. Download or clone the repository
-2. Open `rockpaperscissor.html` in your browser
+2. click on this link https://xenofang.github.io/game/ .
 3. Play the game 🎉
 
 ## 🌐 Live Demo
